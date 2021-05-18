@@ -1,2 +1,2 @@
 # MyCalculator
-Practising Git and Programming with making a Calculator
+Practising Git & Programming with making a Calculator
